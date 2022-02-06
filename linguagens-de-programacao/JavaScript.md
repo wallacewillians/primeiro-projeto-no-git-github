@@ -1,10 +1,7 @@
 # JavaScript :earth_africa:
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> origin
 ## O que é Javascript, a linguagem de programação mais popular do mundo?
 
 
