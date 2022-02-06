@@ -1,7 +1,7 @@
 # Primeiro Projeto no Git / Github. 🔤
 ## Curso da DIO - Digital Inovation One.
 
-Nesse projeto irei criar um Repositório no GitHub e utilizar a ferramenta Git.
+Nesse projeto irei criar um Repositório no GitHub e utilizar as ferramentas do Git.
 
 ### Criação do meu primeiro Repositório. 📖
 
