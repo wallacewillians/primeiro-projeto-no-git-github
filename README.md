@@ -1,15 +1,15 @@
 # Primeiro Projeto no Git / Github. 🔤
 ## Curso da DIO - Digital Inovation One.
 
-Nesse projeto irei criar um Repositorio no GitHub e utilizar a ferramenta Git.
+Nesse projeto irei criar um Repositório no GitHub e utilizar a ferramenta Git.
 
-### Criação do meu primeiro Repositorio. 📖
+### Criação do meu primeiro Repositório. 📖
 
-Foi realizada a criação do repositorio diretamente no GitHub, adicionando um nome ao repositorio e apontando o mesmo como "public" ou "private".
+Foi realizada a criação do repositório diretamente no GitHub, adicionando um nome ao repositório e apontando o mesmo como "public" ou "private".
 
 ### Comando "Git clone". 🌀
 
-Comando utilizado para clonarmos o nosso repositorio para o servidor local.
+Comando utilizado para clonarmos o nosso repositório para o servidor local.
 
 ### Comando "Git add". ◀️
 
@@ -17,11 +17,11 @@ Comando utilizado para adicionar os arquivos para o ambiente staging, são arqui
 
 ### Comando "Git commit". 🔄
 
-Comando utilizado para gravar as modificações realizadas e assim criarmos uma "snapshot" do estado atual do projeto. Dessa forma conseguimos tambem deixar um comentario com as alterações realizadas.
+Comando utilizado para gravar as modificações realizadas e assim criarmos uma "snapshot" do estado atual do projeto. Dessa forma conseguimos também deixar um comentário com as alterações realizadas.
 
 ### Comando "Git push". 📡
 
-Comando utilizado para enviarmos os arquivos / modificações para o nosso servidor no GitHub e assim ficar visivel na plataforma.
+Comando utilizado para enviarmos os arquivos / modificações para o nosso servidor no GitHub e assim ficar visível na plataforma.
 
 ### Ainda mais. 🥇
 
